@@ -33,12 +33,12 @@
 #     print(f"{talaba.capitalize()} baholandi uning bahosi {baho}")
 #     baholangan_talabalar[talaba] = int(baho)
 
-mahsulotlar = {}
-while True:
-    savol = input("Mahsulot nomini kiriting: ")
-    narx = input("Kiritgan mahsulotingizni narhini ham kiriting: ")
-    mahsulotlar[savol] = int(narx)
-    javob = input("Mahsulot kiritishni hohlaysizmi? (ha/yo'q)")
-    if javob == "yo'q":
-        break
-print(mahsulotlar)
+# mahsulotlar = {}
+# while True:
+#     savol = input("Mahsulot nomini kiriting: ")
+#     narx = input("Kiritgan mahsulotingizni narhini ham kiriting: ")
+#     mahsulotlar[savol] = int(narx)
+#     javob = input("Mahsulot kiritishni hohlaysizmi? (ha/yo'q)")
+#     if javob == "yo'q":
+#         break
+# print(mahsulotlar)
